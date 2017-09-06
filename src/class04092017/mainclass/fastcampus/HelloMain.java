@@ -1,4 +1,4 @@
-package fastcampus.mainclass;
+package class04092017.mainclass.fastcampus;
 
 public class HelloMain {
 
