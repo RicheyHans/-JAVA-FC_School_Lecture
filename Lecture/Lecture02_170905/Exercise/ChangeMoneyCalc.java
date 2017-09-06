@@ -1,8 +1,9 @@
 /* 
  *	금액을 지불하고 남은 거스름 돈을 계산하는 프로그램을 작성하시오.
  *	입력값 : 지불 금액, 구입금액 (10,000원 / 3,750원)
- *  출력값 : 권종 별 갯수(10000원, 5000원, 1000원, 500원, 100원, 50원, 10원)
+ *	출력값 : 권종 별 갯수(10000원, 5000원, 1000원, 500원, 100원, 50원, 10원)
  */
+
 public class ChangeMoneyCalc {
 
 	// 권종 별 금액 배열 선언
@@ -15,11 +16,11 @@ public class ChangeMoneyCalc {
 	}
 	
 	public void ChangeCalc(int pay, int price) {
-		
 		int changeMoney = pay - price;
 		System.out.println("거스름 돈 : " + changeMoney + "원");
-		System.out.println("");
+		System.out.println("-----------");
 		
+		// 향상된 for문 내에서 거스름 돈을 각 권종별로 나눈 몫으로 권종 별 수량 연산
 		for(int item : arrayMoney) {
 			System.out.println(item+"원 권 :"+changeMoney/item+"장");
 			changeMoney = changeMoney % item;
