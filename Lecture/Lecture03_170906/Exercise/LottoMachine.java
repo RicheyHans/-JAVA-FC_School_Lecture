@@ -2,6 +2,7 @@
  *  로또번호 추첨 프로그램을 작성하시오.
  *  (6개의 임의의 정수 추출 / 중복 불가)
  */
+
 public class LottoMachine {
 	
 	int[] result = new int[6];
@@ -12,11 +13,9 @@ public class LottoMachine {
 		for(int item : result) {
 			System.out.println(item);
 		}
-
 	}
 	
 	public int[] getLottoNumbers() {
-		
 		for(int i = 0; i < 6; i++) {
 			result[i] = (int) (Math.random()*45);				
 			for(int j = 0; i < j; j++) {
@@ -25,7 +24,6 @@ public class LottoMachine {
 					break;
 				}
 			}
-			// 조건은 중복숫자X, 0X
 		}
 		return result;
 	}
