@@ -8,7 +8,7 @@
 
 * Class/Object의 의미 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/lecture02_170905.md)
 * 예제 프로젝트
- * 거스름돈 계산 프로그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/Exercise/ChangeMoneyCalc.java)
- * for문을 활용한 그림그리기
+  * 거스름돈 계산 프로그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/Exercise/ChangeMoneyCalc.java)
+  * for문을 활용한 그림그리기
 
 ## #Lecture 03(170906)
