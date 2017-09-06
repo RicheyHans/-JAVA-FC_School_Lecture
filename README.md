@@ -13,7 +13,7 @@
 
 ### #Lecture 03(170906)
 
-* String / Math API (미완료) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/lecture03_170906.md)
+* String / Math API (**미완료**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/lecture03_170906.md)
 * 예제 프로젝트
   * 로또번호 추점 프로그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/Exercise/LottoMachine.java)
   * 아나그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/Exercise/Anagram.java)
