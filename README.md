@@ -1,3 +1,9 @@
-# -JAVA-FC_School_Lecture
-Fast Campus Android School - JAVA lecture
-branch test
+# [JAVA] Fast Campus School Lecture
+
+패스트캠퍼스 JAVA 정규 강의 과정
+
+## #Lecture 01(170904)
+
+## #Lecture 02(170904)
+
+## #Lecture 03(170904)
