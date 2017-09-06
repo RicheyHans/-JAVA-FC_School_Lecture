@@ -4,7 +4,7 @@
 
 ## #Lecture 01(170904)
 
-## #Lecture 02(170905) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/lecture02_170905.md)
+## #Lecture 02(170905) 
 
 * Class/Object의 의미 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/lecture02_170905.md)
 * 예제 프로젝트
