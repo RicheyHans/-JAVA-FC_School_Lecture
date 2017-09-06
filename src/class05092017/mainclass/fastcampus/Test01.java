@@ -1,10 +1,15 @@
 package class05092017.mainclass.fastcampus;
 
+/*	
+ * 	(입력값 "A",5)
+ *	A
+ * 	AA
+ * 	AAA
+ *	AAAA
+ *	AAAAA
+ */
 
 public class Test01 {
-	//입력1 : String 타입의 마크가 되는 문자열 run("A")
-	//입력2 : 출력할 줄 수 run("A", 5)
-	
 	public void run(String mark, int lines) {
 		for(int i = 0; i < lines; i++)
 		{
