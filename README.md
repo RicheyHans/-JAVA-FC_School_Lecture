@@ -1,14 +1,14 @@
-# [JAVA] Fast Campus School Lecture
+## [JAVA] Fast Campus School Lecture
 
 패스트캠퍼스 JAVA 정규 강의 과정
 
-## #Lecture 01(170904)
+### #Lecture 01(170904)
 
-## #Lecture 02(170905) 
+### #Lecture 02(170905)
 
 * Class/Object의 의미 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/lecture02_170905.md)
 * 예제 프로젝트
   * 거스름돈 계산 프로그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture02_170905/Exercise/ChangeMoneyCalc.java)
   * for문을 활용한 그림그리기
 
-## #Lecture 03(170906)
+### #Lecture 03(170906)
