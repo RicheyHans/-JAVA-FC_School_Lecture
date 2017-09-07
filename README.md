@@ -17,3 +17,8 @@
 * 예제 프로젝트
   * 로또번호 추점 프로그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/Exercise/LottoMachine.java)
   * 아나그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/Exercise/Anagram.java)
+
+### #Lecture 04(170907)
+ * 컬렉션 프레임워크
+ * 예제 프로젝트
+   * 목록 관리 프로그램(메모리 저장 version)
