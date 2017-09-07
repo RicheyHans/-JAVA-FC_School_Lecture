@@ -19,7 +19,7 @@
   * 아나그램 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture03_170906/Exercise/Anagram.java)
 
 ### #Lecture 04(170907)
- * 컬렉션 프레임워크
+ * 컬렉션 프레임워크 [link]()
  * 예제 프로젝트
-    * 목록 관리 프로그램(메모리 저장 version)
-      - 실행 구조
+    * 목록 관리 프로그램(메모리 저장 version) [link]()
+      - 실행 구조 [link]()
