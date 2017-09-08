@@ -27,8 +27,6 @@
 ### #Lecture 05(170908)
  * Stream, IO 구조(**미완료**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture05_170908/lecture05_170908.md)
  * 예제 프로젝트
-   * 목록 관리 프로그램(파일 저장 version / c만 구현 / **미완성**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/tree/master/Lecture/Lecture05_170908/Exercise)
-
+   * 목록 관리 프로그램(파일 저장 version / c만 구현 / **미완성**) [link]()
    * 목록 관리 프로그램(파일 저장 version / 클래스 전체 구분 / **미완성**) [link]()
-
    * 목록 관리 프로그램(DB 저장 version / **미완성**) [link]()
