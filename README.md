@@ -23,3 +23,8 @@
  * 예제 프로젝트
     * 목록 관리 프로그램(메모리 저장 version) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture04_170907/Exercise/MemoMain.java)
       > 실행 구조 [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture04_170907/MainMemo_Structure.pptx)
+
+### #Lecture 05(170908)
+ * Stream, IO 구조(**미완료**)
+ * 예제 프로젝트
+   * 목록 관리 프로그램(파일 저장 version) [link]()
