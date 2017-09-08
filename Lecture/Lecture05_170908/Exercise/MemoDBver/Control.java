@@ -39,65 +39,38 @@ public class Control {
 			switch(command){
 
 			case "c":
-
 				Memo memo = view.create();
-
 				model.create(memo);
-
 				break;
 
 			case "r":
-
 				int readNo = view.readMemoNo();
-
 				if(readNo < 0){ // 모두 예외처리 필요
-
 					view.println("글번호가 잘못되었습니다.");
-
 					break;
-
 				}
-
 				Memo readMemo = model.read(readNo);
-
 				view.showMemo(readMemo);
-
 				break;
 
 			case "u":
-
 				int updateNo = view.readMemoNo();
-
 				Memo updateMemo = model.read(updateNo);
-
 				view.update(updateMemo);
-
 				break;
 
 			case "d":
-
 				int deleteNo = view.readMemoNo();
-
 				model.delete(deleteNo);
-
 				break;
 
 			case "l":
-
 				ArrayList<Memo> list = model.getList();
-
 				view.showList(list);
-
 				break;
-
 			}
-
 		}
-
-		
-
 		view.println("시스템이 종료되었습니다!");
-
 	}
 
 }
