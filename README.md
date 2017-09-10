@@ -30,3 +30,7 @@
    * 목록 관리 프로그램(파일 저장 version / 기록기능 구현 / **미완성**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/tree/master/Lecture/Lecture05_170908/Exercise/MemoOnlyCver)
    * 목록 관리 프로그램(파일 저장 version / 클래스 전체 구분 / **미완성**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/tree/master/Lecture/Lecture05_170908/Exercise/MemoClassDivide)
    * 목록 관리 프로그램(DB 저장 version / **미완성**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/tree/master/Lecture/Lecture05_170908/Exercise/MemoDBver)
+
+### #Lecture 06(170911)
+
+ * 
