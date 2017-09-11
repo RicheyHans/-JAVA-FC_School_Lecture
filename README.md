@@ -1,6 +1,6 @@
 ## [JAVA] Fast Campus School Lecture
 
-패스트캠퍼스 JAVA 정규 강의 과정
+패스트캠퍼스 JAVA 정규 강의
 
 ### #Lecture 01(170904)
 
