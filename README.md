@@ -32,5 +32,6 @@
    * 목록 관리 프로그램(DB 저장 version / **미완성**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/tree/master/Lecture/Lecture05_170908/Exercise/MemoDBver)
 
 ### #Lecture 06(170911)
+ * call-back method [link]()
  * 예제 프로젝트
    * ArrayList<> 직접 구현(**미완성**) [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture/blob/master/Lecture/Lecture06_170911/Exercise/NewList.java)
